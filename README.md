@@ -1,3 +1,3 @@
-# Geschichte der Hausarbeit
+# Geschichte der Informatik
 
-Hier ist meine erklärung zum meime Informatik.
+Hier ist meine erklärung zum meine Hausarbeit.
