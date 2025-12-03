@@ -7,3 +7,5 @@
 ## Die Entwicklung der GöhrenßComputer
 
 ## Zusammenfassung
+
+## Literatur
